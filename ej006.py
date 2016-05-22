@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 '''
 @author: Hector Cortez
-Dado un n√∫meroA determinar si es par o impar, utilizando el modulo de una division.
+Dado un n˙mero A determinar si es par o impar, utilizando el modulo de una division.
 desplegar el n√mero y el mensaje. 
 '''
 n = int(input("Introduzca un n√∫mero: "))
