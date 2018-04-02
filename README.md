@@ -1,4 +1,4 @@
-# Ejemplos varios con Python
+# Python Examples
 
 Ejemplos varios con python, con la finalidad de aprender python.
 
